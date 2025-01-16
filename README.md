@@ -1,8 +1,8 @@
-Overview
+## Overview
 
 This Password Manager is a Python-based application designed to securely store, manage, and retrieve your passwords. It allows users to save credentials for different accounts, generate strong passwords, and protect all data using encryption.
 
-Features
+## Features
 
 Secure Storage: All passwords are encrypted before being saved.
 
@@ -14,7 +14,7 @@ User Authentication: Protect the application with a master password.
 
 Cross-Platform: Works on Windows, macOS, and Linux.
 
-Requirements
+## Requirements
 
 To run this project, ensure you have the following installed:
 
@@ -22,7 +22,7 @@ Python 3.6 or higher
 
 Required libraries (see requirements.txt)
 
-Installation
+## Installation
 
 Clone the repository:
 
@@ -37,7 +37,7 @@ Run the application:
 
 python main.py
 
-Usage
+## Usage
 
 Launch the application.
 
@@ -49,7 +49,7 @@ Use the password generator to create strong passwords.
 
 Search for saved credentials by account name.
 
-File Structure
+## File Structure
 
 password-manager/
 |-- main.py             # Entry point of the application
@@ -60,13 +60,13 @@ password-manager/
 |-- requirements.txt    # Python dependencies
 |-- README.md           # Project documentation
 
-Security
+## Security
 
 Passwords are encrypted using AES encryption (or another secure algorithm).
 
 The master password is hashed and never stored in plain text.
 
-Future Enhancements
+## Future Enhancements
 
 Add cloud synchronization for password backups.
 
@@ -74,7 +74,7 @@ Implement two-factor authentication (2FA).
 
 Add a GUI interface for better user experience.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -82,7 +82,7 @@ Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-Contact
+## Contact
 
 For questions or suggestions, please contact naraaiseenu2005@gmail.com
 
