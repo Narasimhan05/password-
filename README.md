@@ -24,30 +24,30 @@ To run this project, ensure you have the following installed:
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
 
 ``git clone https://github.com/your-username/password-manager.git
 cd password-manager``
 
-Install dependencies:
+2. Install dependencies:
 
 ```pip install -r requirements.txt```
 
-Run the application:
+3. Run the application:
 
-python main.py
+``python main.py``
 
 ## Usage
 
-Launch the application.
+1. Launch the application.
 
-Set a master password during the first run. Use this to log in to the application in the future.
+2. Set a master password during the first run. Use this to log in to the application in the future.
 
-Add new accounts by specifying the account name, username, and password.
+3. Add new accounts by specifying the account name, username, and password.
 
-Use the password generator to create strong passwords.
+4. Use the password generator to create strong passwords.
 
-Search for saved credentials by account name.
+5. Search for saved credentials by account name.
 
 ## File Structure
 
@@ -62,17 +62,17 @@ password-manager/
 
 ## Security
 
-Passwords are encrypted using AES encryption (or another secure algorithm).
+• Passwords are encrypted using AES encryption (or another secure algorithm).
 
-The master password is hashed and never stored in plain text.
+• The master password is hashed and never stored in plain text.
 
 ## Future Enhancements
 
-Add cloud synchronization for password backups.
+• Add cloud synchronization for password backups.
 
-Implement two-factor authentication (2FA).
+• Implement two-factor authentication (2FA).
 
-Add a GUI interface for better user experience.
+• Add a GUI interface for better user experience.
 
 ## License
 
