@@ -78,7 +78,7 @@ password-manager/
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
