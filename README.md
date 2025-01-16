@@ -4,34 +4,34 @@ This Password Manager is a Python-based application designed to securely store, 
 
 ## Features
 
-Secure Storage: All passwords are encrypted before being saved.
+• Secure Storage: All passwords are encrypted before being saved.
 
-Password Generation: Generate strong, random passwords.
+• Password Generation: Generate strong, random passwords.
 
-Search Functionality: Quickly find stored credentials.
+• Search Functionality: Quickly find stored credentials.
 
-User Authentication: Protect the application with a master password.
+• User Authentication: Protect the application with a master password.
 
-Cross-Platform: Works on Windows, macOS, and Linux.
+• Cross-Platform: Works on Windows, macOS, and Linux.
 
 ## Requirements
 
 To run this project, ensure you have the following installed:
 
-Python 3.6 or higher
+ • Python 3.6 or higher
 
-Required libraries (see requirements.txt)
+ • Required libraries (see requirements.txt)
 
 ## Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/password-manager.git
-cd password-manager
+``git clone https://github.com/your-username/password-manager.git
+cd password-manager``
 
 Install dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Run the application:
 
