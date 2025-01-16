@@ -49,17 +49,6 @@ cd password-manager``
 
 5. Search for saved credentials by account name.
 
-## File Structure
-
-password-manager/
-|-- main.py             # Entry point of the application
-|-- database.py         # Handles data storage and retrieval
-|-- encryption.py       # Provides encryption and decryption functionality
-|-- ui.py               # Manages user interaction
-|-- utils.py            # Helper functions such as password generation
-|-- requirements.txt    # Python dependencies
-|-- README.md           # Project documentation
-
 ## Security
 
 • Passwords are encrypted using AES encryption (or another secure algorithm).
