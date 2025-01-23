@@ -63,14 +63,6 @@ cd password-manager``
 
 • Add a GUI interface for better user experience.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
 ## Contact
 
 For questions or suggestions, please contact naraaiseenu2005@gmail.com
